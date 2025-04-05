@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'Doodknochkout'
+author 'BlackCris'
 description 'Anti Knockout Script'
 version '1.0.0'
 
